@@ -18,7 +18,7 @@ This handbook serves as a comprehensive resource for healthcare professionals in
 
 This work delves into the clinical and laboratory aspects of transfusion medicine and hemostasis, offering in-depth insights into blood component therapy, transfusion reactions, coagulation disorders, and the management of patients requiring transfusion support.
 
-4. Information on Entities
+3. Information on Entities
 
 In total, we have eight entities:
 
@@ -70,7 +70,7 @@ Attributes: city_ID (PK), city_name
 
 Description: Stores city information for donors, recipients, and hospitals.
 
-5. Relationships Between Entities
+4. Relationships Between Entities
 
 City and Hospital_Info: "in" (1-to-Many)
 
