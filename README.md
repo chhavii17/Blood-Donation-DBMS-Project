@@ -8,15 +8,7 @@ Monitoring the quality of blood and keeping track of donors pose significant cha
 
 The 'Blood Bank Management System' offers a comprehensive approach to monitoring blood quality and tracking available blood when requested by recipients. Manual systems, currently in use, are time-consuming and lack effectiveness. The 'Blood Bank Management System' automates blood distribution, streamlining the process. The system's database encompasses thousands of records for each blood bank, facilitating efficient searching of available blood and saving considerable time compared to the manual system.
 
-## 2. Literature Work
-
-- **"Handbook of Blood Banking and Transfusion Medicine"** by Christopher D. Hillyer, MD, Beth H. Shaz, MD, and James C. Zimring, MD, PhD
-  This handbook serves as a comprehensive resource for healthcare professionals involved in blood banking and transfusion medicine. It covers essential topics such as blood collection, processing, storage, compatibility testing, transfusion reactions, and quality assurance in transfusion therapy.
-
-- **"Transfusion Medicine and Hemostasis: Clinical and Laboratory Aspects"** by Christopher D. Hillyer, MD, Leslie E. Silberstein, MD, Paul M. Ness, MD, and Kenneth C. Anderson, MD
-  This work delves into the clinical and laboratory aspects of transfusion medicine and hemostasis, offering in-depth insights into blood component therapy, transfusion reactions, coagulation disorders, and management of patients requiring transfusion support.
-
-## 3. Information on Entities
+## 2. Information on Entities
 
 In total, we have eight entities:
 
@@ -52,7 +44,7 @@ In total, we have eight entities:
   - **Attributes:** `city_ID` (PK), `city_name`
   - **Description:** Stores city information for donors, recipients, and hospitals.
 
-## 4. Relationships Between Entities
+## 3. Relationships Between Entities
 
 - **City and Hospital_Info:** "in" (1-to-Many)
 - **City and Blood_Donor:** "lives in" (1-to-Many)
