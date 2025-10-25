@@ -16,7 +16,7 @@ This handbook serves as a comprehensive resource for healthcare professionals in
 
 "Transfusion Medicine and Hemostasis: Clinical and Laboratory Aspects" by Christopher D. Hillyer, MD, Leslie E. Silberstein, MD, Paul M. Ness, MD, and Kenneth C. Anderson, MD
 
-This work delves into the clinical and laboratory aspects of transfusion medicine and hemostasis, offering in-depth insights into blood component therapy, transfusion reactions, coagulation disorders, and the management of patients requiring transfusion support.
+This work delves into the clinical and laboratory aspects of transfusion medicine and hemostasis, offering in-depth insights into blood component therapy, transfusion reactions, coagulation disorders, and management of patients requiring transfusion support.
 
 3. Information on Entities
 
